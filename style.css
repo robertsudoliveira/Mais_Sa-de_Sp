@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+  
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 990px;
+    background-attachment: fixed;
+    height: 100px;
+}
+.logo{
+display: flex;
+align-items: center;
+
+
+
+}
+
+.menu{
+text-decoration: none;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+nav ul,
+nav li{
+   
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    display: flex;
+}
+nav a{
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    text-transform: uppercase;
+    color: #727272;
+    border-radius: 11px;
+}
+nav .active a,
+nav a:hover{
+    background-color: #39aae1;
+    color: white;
+    
+}
