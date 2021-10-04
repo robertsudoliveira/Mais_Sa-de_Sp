@@ -54,7 +54,17 @@ nav a{
 }
 nav .active a,
 nav a:hover{
-    background-color: #39aae1;
-    color: white;
+    background-color: #e9ebec;
+    color:  #39aae1;
+    font-weight: bold;
     
+}
+#banner{
+    background-image: url('./image/national-cancer-institute-fTQHPb6r4wQ-unsplash\ \(1\).jpg');
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+    
+
+
 }
