@@ -177,3 +177,22 @@ a:hover{
     background-color: #0079c7;
     margin-top: 3px;
 }
+#quadradro{
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    width: 310px;
+   
+}
+.quadro{
+    height: 100px;
+    width: 100px;
+    background-color: #0079c7;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+.lorem{
+    margin-bottom: 10px;
+}
