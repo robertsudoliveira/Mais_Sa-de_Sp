@@ -5,7 +5,7 @@
 body{
     margin: 0;
     padding: 0;
-    padding-bottom: 300px;
+   
 }
 
 header{
@@ -290,4 +290,16 @@ footer{
 }
 .google{
     text-decoration: none;
+}
+footer .widget_title_text{
+    color: #ffffff;
+}
+
+.footer_copy{
+    border-top: 1px solid #2c2c2c;
+    height: 40px;
+    line-height: 40px;
+    color: #5c5c5c;
+    font-size: 12px;
+    margin-top: 30px;
 }
