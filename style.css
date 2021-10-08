@@ -5,6 +5,7 @@
 body{
     margin: 0;
     padding: 0;
+    
    
 }
 
@@ -254,6 +255,7 @@ footer{
     display: flex;
     justify-content: center;
     background-color: #1e1e1e;
+   
 }
 
 .footer_menu{
@@ -303,3 +305,32 @@ footer .widget_title_text{
     font-size: 12px;
     margin-top: 30px;
 }
+footer p{
+    font-size: 16px;
+    color: #ffffff;
+}
+.Healt{
+    font-size: ;
+}
+
+.widget_body p{
+    color: #5c5c5c;
+    font-size: 12px;
+}
+.rodape li{
+    display: flex;
+    font-size: 14px;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    text-decoration: none;
+    text-transform: none;
+    color: #5c5c5c;
+  
+    
+    
+}
+.rodape a{
+    text-decoration: none;
+    text-transform: none;
+} 
+
