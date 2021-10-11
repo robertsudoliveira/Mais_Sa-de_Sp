@@ -1,7 +1,6 @@
 # Saúde São Paulo
 
-<img src="./.github/Animação.gif"/>
-
+<img src="./.github/Animação.gif" />
 
 
 >Landpage que mostra as principais noticias do hospital que tem como proposta treinar CSS, HTML.
